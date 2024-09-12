@@ -1,8 +1,8 @@
 ---
 title: "Basic Plots"
-author: "Jeff Goldsmith"
+author: "Maya Krishnamoorthy"
 date: 2019-09-10
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include = FALSE}
