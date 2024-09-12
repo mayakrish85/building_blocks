@@ -2,11 +2,7 @@
 title: "Simple document"
 author: Maya Krishnamoorthy
 date: 2024-09-10
-output: 
-  html_document:
-    toc: true
-    toc_float: true
-    code_folding: hide
+output: github_document
 ---
 ```{r, echo=FALSE, message=FALSE}
 library(tidyverse)
